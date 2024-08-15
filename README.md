@@ -12,7 +12,7 @@ After downloading or cloning the repository navigate to the project folder. Afte
 4. `main.py` contains the database information.
 > I am using MongoDB database, we can have a look into to the data using MongoDB Compass.
 > We can download MongoDB community server from https://www.mongodb.com/try/download/community.
-5. Run the app using `streamlit run app.py`\
+5. Run the app using `streamlit run app.py`
 
 ## Details of the App
 
