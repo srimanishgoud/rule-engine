@@ -53,5 +53,8 @@ After downloading or cloning the repository navigate to the project folder. Afte
 
 `Database and its collections`: MondoDB database
 > myDatabase - database name \
-> inventory - collection in the database to store the all the rules
+> inventory - collection in the database to store the all the rules \
+> The rules are stored as node type objects in dictionary form in the MondoDB database \
+>In the database it looks something like the below picture, picture is a SS from MongoDB Compass
+![alt text](image.png)
 
